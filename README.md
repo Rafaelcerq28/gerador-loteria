@@ -27,7 +27,7 @@ This will return a JSON object with the generated numbers:
 
 ## Running Locally
 
-To run the service locally, make sure you have Java 8 or higher installed on your machine. Clone this repository and run the project.
+To run the service locally, make sure you have Java 19 and maven installed on your machine. Clone this repository and run the project.
 
 The service will be available at `http://localhost:8080/gerador`.
 
